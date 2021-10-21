@@ -1,0 +1,11 @@
+{
+  "name": "decisionspeech",
+  "version": "1.0.0",
+  "description": "A program to check if a given statement is one which asks to make a decision. If so it returns the main verb that is being asked to be performed (e.g. choose) and the objects (options) to choose from.",
+  "main": "decisionSpeech.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Debasish Buragohain",
+  "license": "ISC"
+}
